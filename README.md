@@ -1,4 +1,3 @@
-readme.md
 <h1 align="center">Hi 👋, I'm Eagle Le</h1>
 <h3 align="center">I'm a new and still learning full-stack developer</h3>
 
